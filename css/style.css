@@ -138,11 +138,12 @@
   width: auto;
   margin-top: -22px;
   padding: 16px;
-  color: Black;
+  color: White;
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
+  background-color: Black;
 }
 
 /* Position the "next button" to the right */
