@@ -1,20 +1,20 @@
-.owl-prev {
+.owl-prev-arrow {
     position: absolute;
     top: 58px;
     left: -70px;
 }
-.owl-next {
+.owl-next-arrow {
     position: absolute;
     top: 58px;
     right: -70px;
 }
 @media screen and (max-width: 768px) {
-    .owl-next {
+    .owl-next-arrow {
     position: absolute;
     top: 58px;
     right: 30px;
 }
-.owl-prev {
+.owl-prev-arrow{
     position: absolute;
     top: 58px;
     left: 30px;
