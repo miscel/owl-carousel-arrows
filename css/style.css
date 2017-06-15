@@ -1,7 +1,10 @@
 .owl-prev-arrow {
     position: absolute;
-    top: 58px;
-    left: -70px;
+  top: 85px;
+    left: 150px;
+	background-image: url(../img/icons/prev.png) !important;
+    background-repeat: no-repeat;
+    height: 40px;
 }
 .owl-next-arrow {
     position: absolute;
@@ -18,5 +21,11 @@
     position: absolute;
     top: 58px;
     left: 30px;
+	 background-image: url(../img/icons/prev.png) !important;
+    background-repeat: no-repeat;
+    height: 40px;
 }
+}
+.owl-nav {
+    display: none;
 }
