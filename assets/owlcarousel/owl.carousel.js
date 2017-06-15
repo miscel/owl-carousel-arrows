@@ -1669,7 +1669,7 @@
 				$this.data('owl.carousel', data);
 
 				$.each([
-					'next', 'prev', 'to', 'destroy', 'refresh', 'replace', 'add', 'remove'
+					'', '', 'to', 'destroy', 'refresh', 'replace', 'add', 'remove'
 				], function(i, event) {
 					data.register({ type: Owl.Type.Event, name: event });
 					data.$element.on(event + '.owl.carousel.core', $.proxy(function(e) {
@@ -2813,7 +2813,7 @@
 	 */
 	Navigation.Defaults = {
 		nav: false,
-		navText: [ 'prev', 'next' ],
+		navText: [ '', '' ],
 		navSpeed: false,
 		navElement: 'div',
 		navContainer: false,
