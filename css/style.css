@@ -1,45 +1,45 @@
-.owl-prev-arrow {
+.owl-prev {
     position: absolute;
-    top: 80px;
-    left: 150px;
+    top: 50px;
+    left: -70px;
     background-image: url(../img/icons/prev.png) !important;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat !important;
     height: 40px;
     width: 100px;
-	z-index: 1000;
+	
 }
-.owl-next-arrow {
+.owl-next {
     position: absolute;
-    top: 80px;
-    right: 100px;
+    top: 50px;
+    right: -120px;
     background-image: url(../img/icons/next.png) !important;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat !important;
     height: 40px;
     width: 100px;
-	z-index: 1000;
+	
 }
 @media screen and (max-width: 768px) {
-    .owl-next-arrow {
+    .owl-next {
     position: absolute;
-    top: 85px;
+    top: 50px;
     right: -20px;
 	 background-image: url(../img/icons/next.png) !important;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat !important;
     height: 40px;
     width: 100px;
-	z-index: 1000;
+	
 }
-.owl-prev-arrow{
+.owl-prev{
     position: absolute;
-    top: 85px;
+    top: 50px;
     left: 30px;
 	 background-image: url(../img/icons/prev.png) !important;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat !important;
     height: 40px;
     width: 100px;
-	z-index: 1000;
+	
 }
 }
 .owl-nav {
-    display: none;
+    
 }
