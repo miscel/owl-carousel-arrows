@@ -53,6 +53,6 @@ html
 
 #### License
 
-Copyright (c) 2017 Ardia Business
+Copyright (c) 2017 Selenium Yazılım ve Danışmanlık LTD. ŞTİ.
 
 Licensed under the MIT license.
