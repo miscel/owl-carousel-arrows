@@ -53,6 +53,6 @@ html
 
 #### License
 
-Copyright (c) 2017 Selenium Yazılım ve Danışmanlık LTD. ŞTİ.
+Copyright (c) 2017 Selenium
 
 Licensed under the MIT license.
